@@ -1,2 +1,4 @@
-# shhh1235
-shhh
+
+ game:GetService("RunService").heartbeat:Connect(function()
+   game:GetService("ReplicatedStorage").CleanWindow:FireServer()
+  end)
