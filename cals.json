@@ -1,0 +1,5737 @@
+{
+    "Bliss Arizola-Jensen": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 103"
+            }
+        ],
+        "Grade": 7
+    },
+    "Chloe Bloor": {
+        "Classes": [
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 203"
+            }
+        ],
+        "Grade": 7
+    },
+    "Bodhi Hammett": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 201"
+            }
+        ],
+        "Grade": 8
+    },
+    "Luisa Lambert": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 103"
+            }
+        ],
+        "Grade": 7
+    },
+    "Joseph Lopez": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Spanish E",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Maeve Mohundro": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "5 103"
+            }
+        ],
+        "Grade": 7
+    },
+    "Alexander Nuernberg": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 201"
+            }
+        ],
+        "Grade": 8
+    },
+    "Anna Palvino": {
+        "Classes": [
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 203"
+            }
+        ],
+        "Grade": 7
+    },
+    "Charlie Palvino": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 101"
+            }
+        ],
+        "Grade": 7
+    },
+    "Jack Schulz": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 101"
+            }
+        ],
+        "Grade": 7
+    },
+    "Clara Shaw": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 103"
+            }
+        ],
+        "Grade": 7
+    },
+    "Norah Sojoodi": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Late Arrival/Early Release/Tutor",
+                "ClassPeriod": "A2",
+                "ClassLocation": ""
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 204"
+            }
+        ],
+        "Grade": 8
+    },
+    "Piper Burns": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 2-Front"
+            }
+        ],
+        "Grade": 8
+    },
+    "Osira Caviel-Garner": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 8
+    },
+    "Murphy Dixon": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 204"
+            }
+        ],
+        "Grade": 8
+    },
+    "Meela Foulkrod": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 8
+    },
+    "Max Locke-Floyd": {
+        "Classes": [
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish D",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "6 Studio"
+            }
+        ],
+        "Grade": 8
+    },
+    "Declan Maloney": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Bobby Marks": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 7
+    },
+    "Bean Morgan Gasper": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish D",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 2-Front"
+            }
+        ],
+        "Grade": 8
+    },
+    "Isaac Rocha": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 8
+    },
+    "Milo Sugawa": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "5 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Luke Bodeman": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Ayaan Bose": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 203"
+            }
+        ],
+        "Grade": 6
+    },
+    "William Busby": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 8
+    },
+    "Phoenix Christie-Young": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 8
+    },
+    "Shepherd Clarke": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Late Arrival/Early Release/Tutor",
+                "ClassPeriod": "A4",
+                "ClassLocation": ""
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 204"
+            }
+        ],
+        "Grade": 8
+    },
+    "Jayne Cooper": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Charlie Eubanks": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "Late Arrival/Early Release/Tutor",
+                "ClassPeriod": "A4",
+                "ClassLocation": ""
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "John Higginbotham": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 201"
+            }
+        ],
+        "Grade": 7
+    },
+    "Ruth Francés Jones": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 8
+    },
+    "Andrew Nuernberg": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 101"
+            }
+        ],
+        "Grade": 7
+    },
+    "Lukas Opperman": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 8
+    },
+    "Mason Rigsby": {
+        "Classes": [
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 201"
+            }
+        ],
+        "Grade": 7
+    },
+    "Sloan Scott": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "5 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Amelia Stoker": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 8
+    },
+    "Henry Wichmann": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Algebra I",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 201"
+            }
+        ],
+        "Grade": 7
+    },
+    "Oliver Furrh": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Algebra II",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 204"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish E",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 101"
+            }
+        ],
+        "Grade": 8
+    },
+    "Ishan Shah": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish D",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Algebra II",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 204"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 8
+    },
+    "Pablo Armendariz": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 6
+    },
+    "Addison Derrett": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 6
+    },
+    "Clover Joy Dye": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 6
+    },
+    "Santi Fields": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 6
+    },
+    "Mollie Gallagher": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            }
+        ],
+        "Grade": 6
+    },
+    "Sydney Klinect": {
+        "Classes": [
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 6
+    },
+    "Ash Kramer": {
+        "Classes": [
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 6
+    },
+    "Helena Olmsted": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 6
+    },
+    "Wyatt Riedel": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 103"
+            }
+        ],
+        "Grade": 6
+    },
+    "Matteo Rinaldo": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 203"
+            }
+        ],
+        "Grade": 6
+    },
+    "Ryann Rock": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 6
+    },
+    "Bella Stanton": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 201"
+            }
+        ],
+        "Grade": 6
+    },
+    "Sadie Sullivan": {
+        "Classes": [
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 201"
+            }
+        ],
+        "Grade": 6
+    },
+    "Gavin Woffenden": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 204"
+            }
+        ],
+        "Grade": 6
+    },
+    "Elijah Been": {
+        "Classes": [
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 203"
+            }
+        ],
+        "Grade": 6
+    },
+    "Josephine Brennan": {
+        "Classes": [
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 6
+    },
+    "Katelyn Cordero": {
+        "Classes": [
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 6
+    },
+    "Katherine Dixon": {
+        "Classes": [
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "A1",
+                "ClassLocation": ""
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 6
+    },
+    "Avery Erhardt": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 203"
+            }
+        ],
+        "Grade": 6
+    },
+    "Stella Furrh": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 103"
+            }
+        ],
+        "Grade": 6
+    },
+    "Piper Gray": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 201"
+            }
+        ],
+        "Grade": 6
+    },
+    "Seamus Harrison": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 203"
+            }
+        ],
+        "Grade": 6
+    },
+    "Jack Hooten": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 6
+    },
+    "Sage Knight": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 203"
+            }
+        ],
+        "Grade": 6
+    },
+    "Jacob Lively": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 204"
+            }
+        ],
+        "Grade": 6
+    },
+    "Sophia Lopez-Granados": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish E",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Building Austin",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 2-Front"
+            }
+        ],
+        "Grade": 6
+    },
+    "Ethan Myers": {
+        "Classes": [
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 101"
+            }
+        ],
+        "Grade": 6
+    },
+    "Levi Poag": {
+        "Classes": [
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 6
+    },
+    "Jonathan Tellez": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 203"
+            }
+        ],
+        "Grade": 6
+    },
+    "Matteo Waid-Calamari": {
+        "Classes": [
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 6",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "English 6",
+                "ClassPeriod": "B2",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Becoming Human: The Study of People",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 204"
+            }
+        ],
+        "Grade": 6
+    },
+    "Henry Belew": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 7
+    },
+    "Garnett Bryant": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 201"
+            }
+        ],
+        "Grade": 7
+    },
+    "Tomás Chavez": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 204"
+            }
+        ],
+        "Grade": 7
+    },
+    "Lorelei Day": {
+        "Classes": [
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Math Skills Foundation & Exploration",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 201"
+            }
+        ],
+        "Grade": 7
+    },
+    "Basil Larson": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "5 103"
+            }
+        ],
+        "Grade": 7
+    },
+    "Harmon Miller": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 7
+    },
+    "Eli Padgett": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 201"
+            }
+        ],
+        "Grade": 7
+    },
+    "Pippa Parks": {
+        "Classes": [
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "5 103"
+            }
+        ],
+        "Grade": 7
+    },
+    "Kassidy Abshire": {
+        "Classes": [
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 7
+    },
+    "Willa Bingham-Houston": {
+        "Classes": [
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 7
+    },
+    "Mateo Cardenas": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 7
+    },
+    "Elliott Hirsch": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 201"
+            }
+        ],
+        "Grade": 7
+    },
+    "Shale Hudgeons": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 101"
+            }
+        ],
+        "Grade": 7
+    },
+    "Charles Pitre": {
+        "Classes": [
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 7
+    },
+    "Sofia Rodriguez": {
+        "Classes": [
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish E",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 203"
+            }
+        ],
+        "Grade": 7
+    },
+    "Astrid Shoultz": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Spanish A",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 203"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 103"
+            }
+        ],
+        "Grade": 7
+    },
+    "Lucille Starr": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 7
+    },
+    "Abigail Edwards": {
+        "Classes": [
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 7
+    },
+    "Eloise Erickson": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 7
+    },
+    "Vivi Gilkison": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 7
+    },
+    "Paloma Griffiths": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 203"
+            }
+        ],
+        "Grade": 7
+    },
+    "Lucas Peterson": {
+        "Classes": [
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 201"
+            }
+        ],
+        "Grade": 7
+    },
+    "Stella Scroggins": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 7
+    },
+    "Luka Sokolovic": {
+        "Classes": [
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 201"
+            }
+        ],
+        "Grade": 7
+    },
+    "Hazel Tversky": {
+        "Classes": [
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 203"
+            }
+        ],
+        "Grade": 7
+    },
+    "Leo Tversky": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Pre-Algebra",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 203"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS Comic Books & Graphic Novels",
+                "ClassPeriod": "B4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 101"
+            }
+        ],
+        "Grade": 7
+    },
+    "Nolan Weiss": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 101"
+            }
+        ],
+        "Grade": 7
+    },
+    "Miles Yanyali": {
+        "Classes": [
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 7",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "English 7",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Becoming Society",
+                "ClassPeriod": "B2",
+                "ClassLocation": "1 102"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Theater - Improv",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": ""
+            }
+        ],
+        "Grade": 7
+    },
+    "Tobias Moffitt": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "A2",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Aarushi Agarwal": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Music Elective",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 8
+    },
+    "Graham Gossett": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish D",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 201"
+            }
+        ],
+        "Grade": 8
+    },
+    "James Kern": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Spanish E",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 103"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 8
+    },
+    "Justin MacDougal": {
+        "Classes": [
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A4",
+                "ClassLocation": "8 103"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Spanish E",
+                "ClassPeriod": "B2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "5 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Josephine Pitts": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "4 202"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 201"
+            }
+        ],
+        "Grade": 8
+    },
+    "Ava Stewart": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 2-Front"
+            }
+        ],
+        "Grade": 8
+    },
+    "Caroline Torres": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B1",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "MS Band",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Veda Bilbe": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 2-Front"
+            }
+        ],
+        "Grade": 8
+    },
+    "Wyatt Fischer": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "MS Spanish B",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A4",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 8
+    },
+    "Zoe Gallagher": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Photography & Imagemaking",
+                "ClassPeriod": "B4",
+                "ClassLocation": "5 103"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 2-Front"
+            }
+        ],
+        "Grade": 8
+    },
+    "Letsie Khabele": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "4 104"
+            }
+        ],
+        "Grade": 8
+    },
+    "Ara McNeal": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A2",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A4",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 2-Front"
+            }
+        ],
+        "Grade": 8
+    },
+    "Dillon Overton": {
+        "Classes": [
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A1",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Social Justice",
+                "ClassPeriod": "B4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "1 101"
+            }
+        ],
+        "Grade": 8
+    },
+    "Matthew Perez": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "8 102"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Film",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "2 201"
+            }
+        ],
+        "Grade": 8
+    },
+    "Nawi Reyna": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish C",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 101"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B1",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B2",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS SmartLab",
+                "ClassPeriod": "B4",
+                "ClassLocation": "8 101"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 103"
+            }
+        ],
+        "Grade": 8
+    },
+    "Emma Rock": {
+        "Classes": [
+            {
+                "ClassName": "English 8",
+                "ClassPeriod": "A1",
+                "ClassLocation": "1 204"
+            },
+            {
+                "ClassName": "MS Spanish D",
+                "ClassPeriod": "A2",
+                "ClassLocation": "2 201"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "A3MS",
+                "ClassLocation": "5 101"
+            },
+            {
+                "ClassName": "Geometry",
+                "ClassPeriod": "A4",
+                "ClassLocation": "4 201"
+            },
+            {
+                "ClassName": "Science 8",
+                "ClassPeriod": "B1",
+                "ClassLocation": "4 104"
+            },
+            {
+                "ClassName": "PACTivity",
+                "ClassPeriod": "B2",
+                "ClassLocation": "6 Studio"
+            },
+            {
+                "ClassName": "Early American History",
+                "ClassPeriod": "B3MS",
+                "ClassLocation": "1 101"
+            },
+            {
+                "ClassName": "MS Studio Art",
+                "ClassPeriod": "B4",
+                "ClassLocation": "6 202"
+            },
+            {
+                "ClassName": "Project Week",
+                "ClassPeriod": "PW",
+                "ClassLocation": "8 103"
+            }
+        ],
+        "Grade": 8
+    }
+}
